@@ -1,13 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LittleCat01.github.io</id>
-    <title>一只被掐死的喵的blog</title>
-    <updated>2019-06-18T23:49:26.823Z</updated>
+    <title>一只被掐死的喵 /Blog</title>
+    <updated>2019-06-19T02:48:47.834Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://LittleCat01.github.io"/>
     <link rel="self" href="https://LittleCat01.github.io/atom.xml"/>
     <subtitle>人生碌碌，竟短论长，却道荣枯有数，得失难量……</subtitle>
     <logo>https://LittleCat01.github.io/images/avatar.png</logo>
     <icon>https://LittleCat01.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2019, 一只被掐死的喵的blog</rights>
+    <rights>All rights reserved 2019, 一只被掐死的喵 /Blog</rights>
+    <entry>
+        <title type="html"><![CDATA[一只被掐死的喵的blog##创建成功    (￣▽￣)"！！！]]></title>
+        <id>https://LittleCat01.github.io/post/chuang-jian-cheng-gong-v-</id>
+        <link href="https://LittleCat01.github.io/post/chuang-jian-cheng-gong-v-">
+        </link>
+        <updated>2019-06-18T23:54:16.000Z</updated>
+        <content type="html"><![CDATA[<p>这是本博客的第一篇文章，没有具体内容，单纯的只是表示喜悦😎</p>
+]]></content>
+    </entry>
 </feed>
